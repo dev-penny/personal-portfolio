@@ -1,5 +1,5 @@
 # Personal Portfolio
-This is my personal website, heck it out at pennylioliou.me
+This is my personal website, check it out!
 
 # The MIT License
 Copyright © 2021 CodeAndCreate & Penny Lioliou
