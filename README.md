@@ -1,7 +1,7 @@
 # Personal Portfolio
 This is my personal website, check it out!
 
-[link](https://pennylioliou.me/)
+[https://pennylioliou.me/](https://pennylioliou.me/)
 
 # The MIT License
 Copyright © 2021 CodeAndCreate & Penny Lioliou
