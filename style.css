@@ -24,7 +24,7 @@ html {
 .section-heading {
   font-size: 5rem;
   color: #333;
-  text-transform: uppercase;
+//  text-transform: uppercase;
   letter-spacing: 0.5rem;
   margin-bottom: 15rem;
   border-bottom: 0.3rem solid #333;
