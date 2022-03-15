@@ -1,5 +1,5 @@
 # Personal Portfolio
-This is my personal website for my development skills, check it out!
+This is my personal website, check it out!
 
 [pennylioliou.me](https://pennylioliou.me/)
 
