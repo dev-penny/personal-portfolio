@@ -37,11 +37,12 @@ html {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(
+  background-color: #ac8354;
+  /*background: linear-gradient(
       rgba(255, 255, 255, 0.2),
       rgba(255, 255, 255, 0.3)
     ),
-    url(images/bg.jpg) center no-repeat;
+    url(images/bg.jpg) center no-repeat;*/
   background-size: cover;
   flex-direction: column;
 }
@@ -50,7 +51,7 @@ html {
   font-size: 4rem;
   font-weight: 700;
   color: #fff;
-  background-color: #fff;
+  /*background-color: #fff;*/
   padding: 0 3rem;
   margin-bottom: 5rem;
   text-transform: uppercase;
@@ -65,7 +66,7 @@ html {
   height: 25rem;
   object-fit: cover;
   border-radius: 50%;
-  border: 0.7rem dotted #e41c6f;
+  border: 0.7rem dotted #554f49;
   background-color: rgba(255, 255, 255, 0.7);
   padding: 0.5rem;
   opacity: 0.9;
@@ -73,12 +74,22 @@ html {
 
 .person-name {
   font-size: 2rem;
-  color: #fff;
-  background-color: #e41c6f;
-  margin: 5rem 0;
+  color: #000;
+  background-color: #e9d5a1;
+  margin: 1rem 0;
   padding: 0.5rem 3rem;
   letter-spacing: 0.3rem;
   transform: skew(-10deg);
+}
+
+.person-info {
+  width: 50%;
+  margin: 0 0 3rem;
+  font-size: 1.5rem;
+  color: #000;
+  background-color: none;
+  letter-spacing: 0.3rem;
+  /* transform: skew(-10deg); */
 }
 
 .section-1-btn {
@@ -98,7 +109,7 @@ html {
 .navbar {
   width: 100%;
   height: 4rem;
-  background-color: #e41c6f;
+  background-color: #9e7444;
   box-shadow: 0.2rem 0.2rem 0.5rem #555;
   position: absolute;
   z-index: 300;
@@ -189,7 +200,7 @@ html {
 .progress-percent {
   width: 0;
   height: 100%;
-  background-color: #e41c6f;
+  background-color: #554f49;
   border-radius: 0.3rem;
   transition: width 0.5s 0.5s ease-in-out;
 }
@@ -320,14 +331,17 @@ html {
 .section-4 {
   width: 100%;
   height: 70vh;
+  margin: auto;
+  padding: 10rem;
   background-color: #333;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
 }
 
 .section-4-heading {
+  font-size: 2rem;
   color: #fff;
   box-shadow: none;
   border-color: #fff;
@@ -335,8 +349,9 @@ html {
 }
 
 .section-4-detail{
-  color: #e41c6f;
+  color: #ad7e48;
   font-size: 2rem;
+  margin-top: 2rem;
 }
 
 /* End of Section 4 */
@@ -355,8 +370,7 @@ html {
 
 .social-media-link {
   margin: 0 2rem;
-  padding: 0.7rem;
-  background-color: #e41c6f;
+  padding: 0.7rem; 
   border-radius: 0.5rem;
   display: inline-block;
 }
@@ -367,7 +381,7 @@ html {
 }
 
 .copyright {
-  color: #aaa;
+  color: #000;
   font-size: 15px;
   letter-spacing: 0.2rem;
   font-weight: 300;
