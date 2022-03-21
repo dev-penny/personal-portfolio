@@ -350,8 +350,17 @@ html {
 
 .section-4-detail{
   color: #ad7e48;
+  font-size: 2.5rem;
+  margin: auto;
+}
+
+.contact-info{
+  margin: auto;
   font-size: 2rem;
-  margin-top: 10rem;
+}
+
+.section-detail-email{
+  color: #ad7e48;
 }
 
 /* End of Section 4 */
