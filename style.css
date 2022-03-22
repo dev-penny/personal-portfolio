@@ -486,4 +486,26 @@ html {
     width: 40rem;
   }
 }
+
+@media (max-width: 360px) {
+  html {
+    font-size: 42%;
+  }
+
+  .section-1-heading {
+    font-size: 2.5rem;
+  }
+
+  .navbar-link {
+    margin: 0 1.5rem;
+  }
+
+  .section-2-heading {
+    text-align: center;
+  }
+
+  .progress-bar {
+    width: 40rem;
+  }
+}
 /* End of Responsive */
