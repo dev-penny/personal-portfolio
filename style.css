@@ -15,6 +15,18 @@ html {
   scroll-behavior: smooth;
 }
 
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
 .center {
   display: flex;
   justify-content: center;
@@ -71,15 +83,30 @@ html {
   padding: 0.5rem;
   opacity: 0.9;
 }
-
+.name-container{
+  width: auto;
+  height: auto;
+}
 .person-name {
-  font-size: 2rem;
+  /* font-size: 2rem;
   color: #000;
-  background-color: #e9d5a1;
   margin: 1rem 0;
   padding: 0.5rem 3rem;
   letter-spacing: 0.3rem;
-  transform: skew(-10deg);
+  transform: skew(-10deg); */
+  font-family: 'Trebuchet MS', sans-serif;
+  margin: 1rem 0;
+  overflow: hidden;
+  /* border-right: .15em solid orange; */
+  white-space: nowrap;
+  font-size: 2rem;
+  letter-spacing: 0.3rem;
+  color: #333;
+  width: 0;
+  animation: 
+    typing 2s steps(20, end) forwards,
+    blink .8s infinite;
+
 }
 
 .person-info {
