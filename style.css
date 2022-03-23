@@ -201,7 +201,7 @@ html {
 .progress-percent {
   width: 0;
   height: 100%;
-  background-color: #554f49;
+  background-color: #385170;
   border-radius: 0.3rem;
   transition: width 0.5s 0.5s ease-in-out;
 }
@@ -246,7 +246,7 @@ html {
   width: 100%;
   height: 100%;
   padding: 10rem 0;
-  background-color: #eef;
+    background-color: #e9d5a1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -361,7 +361,7 @@ html {
 }
 
 .section-detail-email{
-  color: #ad7e48;
+  color: #385170;
 }
 
 /* End of Section 4 */
