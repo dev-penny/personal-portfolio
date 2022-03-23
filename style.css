@@ -94,14 +94,16 @@ html {
   padding: 0.5rem 3rem;
   letter-spacing: 0.3rem;
   transform: skew(-10deg); */
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: 'Asap', sans-serif;
+  text-shadow: 0.1rem 0.1rem 0.2rem #555;
+  transform: skew(-10deg);
   margin: 1rem 0;
   overflow: hidden;
   /* border-right: .15em solid orange; */
   white-space: nowrap;
   font-size: 2rem;
   letter-spacing: 0.3rem;
-  color: #333;
+  color: #fff;
   width: 0;
   animation: 
     typing 2s steps(20, end) forwards,
@@ -118,6 +120,11 @@ html {
   letter-spacing: 0.3rem;
   text-align: center;
   /* transform: skew(-10deg); */
+  /* font-family: 'Trebuchet MS', sans-serif; */
+  font-family: 'Asap', sans-serif;
+}
+.person-info p{
+  font-family: 'Asap', sans-serif;
 }
 
 .section-1-btn {
@@ -388,7 +395,7 @@ html {
 }
 
 .section-detail-email{
-  color: #385170;
+  color: #808080;
 }
 
 /* End of Section 4 */
