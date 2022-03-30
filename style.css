@@ -235,7 +235,7 @@ html {
 .progress-percent {
   width: 0;
   height: 100%;
-  background-color: #385170;
+  background-color: #808080;
   border-radius: 0.3rem;
   transition: width 0.5s 0.5s ease-in-out;
 }
