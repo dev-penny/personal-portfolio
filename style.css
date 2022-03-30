@@ -390,12 +390,13 @@ html {
 }
 
 .contact-info{
+  width: 50%;
   margin: auto;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .section-detail-email{
-  color: #808080;
+  color: #fff;
 }
 
 /* End of Section 4 */
