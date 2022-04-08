@@ -3,6 +3,11 @@ This is my personal website, check it out!
 
 [pennylioliou.me](https://pennylioliou.me/)
 
+## Languages and Tools
+* HTML5
+* CSS3
+* JS
+
 ## The MIT License
 Copyright © 2021 Penny Lioliou
 
