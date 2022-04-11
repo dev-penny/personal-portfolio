@@ -4,9 +4,9 @@ I design a clean, beautiful, minimal and responsive portfolio to place some of m
 Check [here](https://pennylioliou.me/) my personal website!
 
 ## Features
-*Responsive
-*Modern Design
-*Easy to use
+* Responsive
+* Modern Design
+* Easy to use
 
 ## Languages and Tools
 * HTML5
