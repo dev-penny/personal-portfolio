@@ -1,6 +1,12 @@
 # Personal Portfolio
-I design a clean, beautiful, minimal and responsive portfolio to place some of my projects
+I design a clean, beautiful, minimal and responsive portfolio to place some of my projects.
+
 Check [here](https://pennylioliou.me/) my personal website!
+
+## Features
+*Responsive
+*Modern Design
+*Easy to use
 
 ## Languages and Tools
 * HTML5
