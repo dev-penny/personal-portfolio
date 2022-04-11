@@ -1,7 +1,6 @@
 # Personal Portfolio
-This is my personal website, check it out!
-
-[pennylioliou.me](https://pennylioliou.me/)
+I design a clean, beautiful, minimal and responsive portfolio to place some of my projects
+Check [here](https://pennylioliou.me/) my personal website!
 
 ## Languages and Tools
 * HTML5
