@@ -17,6 +17,9 @@ Check [here](https://pennylioliou.me/) my personal website!
 * CSS3
 * JS
 
+## For the Future
+- Add Vertical Timeline to get Summary, Skills, Education and Experience
+
 ## The MIT License
 Copyright © 2021 Penny Lioliou
 
