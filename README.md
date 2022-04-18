@@ -5,8 +5,7 @@ Check [here](https://pennylioliou.me/) my personal website!
 
 ## Overview
 
-![2022-04-18 16-33-38 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/88145246/163817071-306201ab-0465-49ed-b6f9-fdb639f2f02f.gif)
-
+![2022-04-18 17-02-14 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/88145246/163820952-46a0b86b-74ac-4a5e-9510-4e502a9e013d.gif)
 
 ## Features
 * Responsive
