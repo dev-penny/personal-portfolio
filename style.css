@@ -262,7 +262,7 @@ html {
   border-radius: 50%;
   border: .125rem solid;
   display: inline-block;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 .dot--full { background-color: currentColor; }
 .red { color: orangered; }
