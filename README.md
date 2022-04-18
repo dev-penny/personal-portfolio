@@ -5,7 +5,7 @@ Check [here](https://pennylioliou.me/) my personal website!
 
 ## Overview
 
-![portfolio-overview](https://user-images.githubusercontent.com/88145246/163816297-3850702a-05d6-476e-91d9-19ce706ab642.gif)
+![2022-04-18 16-33-38 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/88145246/163817071-306201ab-0465-49ed-b6f9-fdb639f2f02f.gif)
 
 
 ## Features
