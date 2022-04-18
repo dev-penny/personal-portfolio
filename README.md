@@ -1,7 +1,17 @@
 # Personal Portfolio
-This is my personal website, check it out!
+I design a clean, beautiful, minimal and responsive portfolio to place some of my projects.
 
-[pennylioliou.me](https://pennylioliou.me/)
+Check [here](https://pennylioliou.me/) my personal website!
+
+## Features
+* Responsive
+* Modern Design
+* Easy to use
+
+## Languages and Tools
+* HTML5
+* CSS3
+* JS
 
 ## The MIT License
 Copyright © 2021 Penny Lioliou
