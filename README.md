@@ -4,9 +4,7 @@ I design a clean, beautiful, minimal and responsive portfolio to place some of m
 Check [here](https://pennylioliou.me/) my personal website!
 
 ## Overview
-
-![Uploading portfolio-overview.gif…]()
-
+![portfolio-overview_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/88145246/163787794-8f8ba5b8-ccdb-41b0-8584-4f7ee4a86e22.gif)
 
 ## Features
 * Responsive
