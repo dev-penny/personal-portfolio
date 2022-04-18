@@ -18,7 +18,7 @@ Check [here](https://pennylioliou.me/) my personal website!
 * JS
 
 ## For the Future
-&#8594; Add Vertical Timeline to get Summary, Skills, Education and Experience
+&#8594; Add Vertical Timeline to put Summary, Skills, Education and Experience
 
 ## The MIT License
 Copyright © 2021 Penny Lioliou
