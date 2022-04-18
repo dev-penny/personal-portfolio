@@ -5,8 +5,7 @@ Check [here](https://pennylioliou.me/) my personal website!
 
 ## Overview
 
-https://user-images.githubusercontent.com/88145246/163784343-dc4537f9-833f-48b2-96ba-e5d85788458d.mp4
-
+![portfolio-overview](https://user-images.githubusercontent.com/88145246/163785323-ea1689ad-cec9-4ad2-a249-ea44bfecc981.gif)
 
 ## Features
 * Responsive
