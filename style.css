@@ -21,12 +21,6 @@ html {
   to { width: 100% }
 }
 
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-
 .center {
   display: flex;
   justify-content: center;
@@ -50,11 +44,6 @@ html {
   width: 100%;
   height: 100vh;
   background-color: #ac8354;
-  /*background: linear-gradient(
-      rgba(255, 255, 255, 0.2),
-      rgba(255, 255, 255, 0.3)
-    ),
-    url(images/bg.jpg) center no-repeat;*/
   background-size: cover;
   flex-direction: column;
 }
@@ -88,44 +77,56 @@ html {
   height: auto;
 }
 .person-name {
-  /* font-size: 2rem;
-  color: #000;
+  font-size: 2rem;
+  color: #fff;
   margin: 1rem 0;
   padding: 0.5rem 3rem;
   letter-spacing: 0.3rem;
-  transform: skew(-10deg); */
-  font-family: 'Asap', sans-serif;
   text-shadow: 0.1rem 0.1rem 0.2rem #555;
-  transform: skew(-10deg);
   margin: 1rem 0;
   overflow: hidden;
   /* border-right: .15em solid orange; */
-  white-space: nowrap;
+  /* white-space: nowrap;
   font-size: 2rem;
   letter-spacing: 0.3rem;
   color: #fff;
   width: 0;
   animation: 
     typing 2s steps(20, end) forwards,
-    blink .8s infinite;
+    blink .8s infinite; */
 
 }
+#title-container {
+	text-align: center;
+  width: 100%;
+  height: 60px;
+}
+#text-name {
+  font-size: 2rem;
+	display: inline-block;
+	vertical-align: middle;
+	color: #262626;
+	letter-spacing: 2px;
+}
 
-.person-info {
-  width: 50%;
-  margin: 0 0 3rem;
-  font-size: 1.5rem;
-  color: #000;
-  background-color: none;
-  letter-spacing: 0.3rem;
-  text-align: center;
-  /* transform: skew(-10deg); */
-  /* font-family: 'Trebuchet MS', sans-serif; */
-  font-family: 'Asap', sans-serif;
+#cursor {
+	display: inline-block;
+	vertical-align: middle;
+	width: 3px;
+	height: 25px;
+	background-color: orange;
+	animation: blink .75s step-end infinite;
 }
-.person-info p{
-  font-family: 'Asap', sans-serif;
+/* The typewriter cursor effect */
+@keyframes blink {
+	from, to { 
+		background-color: transparent 
+	}
+	50% { 
+		background-color: orange; 
+	}
 }
+
 
 .section-1-btn {
   position: relative;
@@ -240,6 +241,49 @@ html {
   transition: width 0.5s 0.5s ease-in-out;
 }
 
+.card-about{
+  width: 50%;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0.3rem 0.3rem 0.5rem #777;
+}
+
+.card-header{
+  display: flex;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #e6e6e6;
+}
+.dot {
+  margin: 10px 3px 10px 3px;
+  box-sizing: border-box;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  border: .125rem solid;
+  display: inline-block;
+  opacity: 0.7;
+}
+.dot--full { background-color: currentColor; }
+.red { color: orangered; }
+.yellow { color: gold; }
+.green { color: limegreen; }
+
+.person-info {
+  font-size: 1.5rem;
+  color: #000;
+  background-color: none;
+  letter-spacing: 0.2rem;
+  text-align: center;
+  font-family: 'Asap', sans-serif;
+  justify-content: justify;
+  background-color: #fff;
+}
+.person-info h3{
+  margin: 30px 10px 20px 10px;
+  text-align: left;
+}
+
 .services {
   width: 100%;
   height: 30vh;
@@ -258,17 +302,17 @@ html {
 }
 
 .service i {
-  font-size: 10rem;
+  font-size: 5rem;
   color: #888;
   margin-bottom: 2rem;
   text-shadow: 0.1rem 0.1rem 0.5rem #555;
 }
 
 .service h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #fff;
   background-color: #777;
-  width: 25rem;
+  width: 20rem;
   letter-spacing: 0.3rem;
   transform: skew(-10deg);
   box-shadow: 0.2rem 0.2rem 0.5rem #555;
@@ -394,6 +438,9 @@ html {
   margin: auto;
   font-size: 1.8rem;
 }
+.contact-info h3{
+  text-align: justify;
+}
 
 .section-detail-email{
   color: #fff;
@@ -458,6 +505,7 @@ html {
   .progress-bar {
     width: 50rem;
   }
+
 }
 
 @media (max-width: 600px) {
@@ -493,6 +541,7 @@ html {
   .copyright {
     width: 70%;
   }
+
 }
 
 @media (max-width: 500px) {
@@ -521,6 +570,11 @@ html {
   .progress-bar {
     width: 40rem;
   }
+
+  .card-about{
+    width: 40rem;
+  }
+
 }
 
 @media (max-width: 360px) {
@@ -543,5 +597,11 @@ html {
   .progress-bar {
     width: 40rem;
   }
+
+  .card-about{
+    width: 40rem;
+  }
+
+
 }
 /* End of Responsive */
