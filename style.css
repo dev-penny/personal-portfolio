@@ -555,11 +555,6 @@ html {
     font-size: 45%;
   }
 
-  .section-1 {
-    width: 100%;
-    height: 90vh;
-  }
-
   .section-1-heading {
     font-size: 2.5rem;
   }
@@ -586,11 +581,6 @@ html {
 @media (max-width: 360px) {
   html {
     font-size: 43%;
-  }
-
-  .section-1 {
-    width: 100%;
-    height: 90vh;
   }
 
   .section-1-heading {
