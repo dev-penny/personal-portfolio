@@ -5,7 +5,7 @@ Check [here](https://pennylioliou.me/) my personal website!
 
 ## Overview
 
-![portfolio-overview](https://user-images.githubusercontent.com/88145246/163785323-ea1689ad-cec9-4ad2-a249-ea44bfecc981.gif)
+![portfolio-overview-vd (1)](https://user-images.githubusercontent.com/88145246/163789453-184fa3e1-f68c-4c53-b130-43693c1a82cd.gif)
 
 ## Features
 * Responsive
@@ -17,10 +17,6 @@ Check [here](https://pennylioliou.me/) my personal website!
 * CSS3
 * JS
 
-## Sources
-[project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
-
-
 ## The MIT License
 Copyright © 2021 Penny Lioliou
 
@@ -29,4 +25,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Sources
+[project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
+
 
