@@ -29,6 +29,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Sources
 * [project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
-* [project-4..jpg](https://www.istockphoto.com/photo/home-network-switch-with-free-dsl-port-gm157617773-13297854)
+* [project-4.jpg](https://www.istockphoto.com/photo/home-network-switch-with-free-dsl-port-gm157617773-13297854)
 
 
