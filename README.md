@@ -3,6 +3,10 @@ I design a clean, beautiful, minimal and responsive portfolio to place some of m
 
 Check [here](https://pennylioliou.me/) my personal website!
 
+## Overview
+
+![portfolio-overview-vd (1)](https://user-images.githubusercontent.com/88145246/163789453-184fa3e1-f68c-4c53-b130-43693c1a82cd.gif)
+
 ## Features
 * Responsive
 * Modern Design
