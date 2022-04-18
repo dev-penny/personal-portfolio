@@ -555,6 +555,11 @@ html {
     font-size: 45%;
   }
 
+  .section-1 {
+    width: 100%;
+    height: 70vh;
+  }
+
   .section-1-heading {
     font-size: 2.5rem;
   }
@@ -574,6 +579,7 @@ html {
   .card-about{
     width: 40rem;
   }
+
 
 }
 
@@ -582,6 +588,11 @@ html {
     font-size: 43%;
   }
 
+  .section-1 {
+    width: 100%;
+    height: 70vh;
+  }
+
   .section-1-heading {
     font-size: 2.5rem;
   }
@@ -601,7 +612,6 @@ html {
   .card-about{
     width: 40rem;
   }
-
 
 }
 /* End of Responsive */
