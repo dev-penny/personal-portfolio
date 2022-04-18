@@ -5,7 +5,8 @@ Check [here](https://pennylioliou.me/) my personal website!
 
 ## Overview
 
-![portfolio-overview-vd (1)](https://user-images.githubusercontent.com/88145246/163789453-184fa3e1-f68c-4c53-b130-43693c1a82cd.gif)
+![2022-04-18 16-33-38 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/88145246/163817071-306201ab-0465-49ed-b6f9-fdb639f2f02f.gif)
+
 
 ## Features
 * Responsive
@@ -27,6 +28,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Sources
-[project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
+* [project-3.jpg](https://www.istockphoto.com/photo/cloud-computing-emerging-from-computer-servers-technology-innovation-gm539475910-96201179)
+* [project-4.jpg](https://www.istockphoto.com/photo/macro-shot-with-augmented-reality-ethernet-cables-connected-to-router-ports-with-gm1219430161-356699621)
+* [project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
+
 
 
