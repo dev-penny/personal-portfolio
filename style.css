@@ -113,7 +113,7 @@ html {
 	display: inline-block;
 	vertical-align: middle;
 	width: 3px;
-	height: 25px;
+	height: 20px;
 	background-color: orange;
 	animation: blink .75s step-end infinite;
 }
