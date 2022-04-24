@@ -10,6 +10,7 @@ Check [here](https://pennylioliou.me/) my personal website!
 ## Features
 * Responsive
 * Modern Design
+* Clean Animations
 * Easy to use
 
 ## Languages and Tools
