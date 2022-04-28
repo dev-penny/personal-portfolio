@@ -500,10 +500,6 @@ html {
 /* End of Section 5 */
 
 /* Responsive */
-@viewport {
-  width: device-width;
-  zoom: 1;
-}
 
 @media (max-width: 1200px) {
   .services {
