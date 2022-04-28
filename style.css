@@ -71,7 +71,7 @@ html {
   height: 25rem;
   object-fit: cover;
   border-radius: 50%;
-  border: 0.7rem dotted #554f49;
+  /* border: 0.7rem dotted #554f49; */
   background-color: rgba(255, 255, 255, 0.7);
   padding: 0.5rem;
   opacity: 0.9;
@@ -427,7 +427,6 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* justify-content: space-evenly; */
 }
 
 .section-4-heading {
@@ -435,7 +434,7 @@ html {
   color: #fff;
   box-shadow: none;
   border-color: #fff;
-  margin-bottom: 0;
+  margin-bottom: 50px;
 }
 
 .section-4-detail {
@@ -443,14 +442,18 @@ html {
   font-size: 2.5rem;
   margin: auto;
 }
-
-.contact-info {
-  width: 50%;
-  margin: auto;
-  font-size: 1.8rem;
+.card-header-contact-info{
+  background-color: #333333;
+  border-bottom: 1px solid #3d3d3d;
 }
-.contact-info h3 {
-  text-align: justify;
+.card-contact-info{
+  background-color: #262626;
+  border: 1px solid #333333;
+  border-radius: 0.5rem;
+  box-shadow: none;
+}
+.dot-contact-info{
+  color: #808080;
 }
 
 .section-detail-email {
