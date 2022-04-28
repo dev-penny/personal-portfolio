@@ -442,22 +442,26 @@ html {
   font-size: 2.5rem;
   margin: auto;
 }
+
+.dot-contact-info{
+  color: #808080;
+}
 .card-header-contact-info{
   background-color: #333333;
   border-bottom: 1px solid #3d3d3d;
 }
 .card-contact-info{
   background-color: #262626;
-  border: 1px solid #333333;
+  border: 1px solid #1a1a1a;
   border-radius: 0.5rem;
   box-shadow: none;
 }
-.dot-contact-info{
-  color: #808080;
+.card-contact-info h3{
+  color: #fff;
 }
 
 .section-detail-email {
-  color: #fff;
+  color: #999999;
 }
 
 /* End of Section 4 */
