@@ -17,8 +17,12 @@ html {
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
 .center {
@@ -54,7 +58,7 @@ html {
   color: #fff;
   /*background-color: #fff;*/
   padding: 0 3rem;
-  margin-bottom: 5rem; 
+  margin-bottom: 5rem;
   text-transform: uppercase;
   letter-spacing: 1rem;
   border-bottom: 0.3rem solid #fff;
@@ -72,7 +76,7 @@ html {
   padding: 0.5rem;
   opacity: 0.9;
 }
-.name-container{
+.name-container {
   width: auto;
   height: auto;
 }
@@ -94,39 +98,38 @@ html {
   animation: 
     typing 2s steps(20, end) forwards,
     blink .8s infinite; */
-
 }
 #title-container {
-	text-align: center;
+  text-align: center;
   width: 100%;
   height: 60px;
 }
 #text-name {
   font-size: 2rem;
-	display: inline-block;
-	vertical-align: middle;
-	color: #262626;
-	letter-spacing: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  color: #262626;
+  letter-spacing: 2px;
 }
 
 #cursor {
-	display: inline-block;
-	vertical-align: middle;
-	width: 3px;
-	height: 20px;
-	background-color: orange;
-	animation: blink .75s step-end infinite;
+  display: inline-block;
+  vertical-align: middle;
+  width: 3px;
+  height: 20px;
+  background-color: orange;
+  animation: blink 0.75s step-end infinite;
 }
 /* The typewriter cursor effect */
 @keyframes blink {
-	from, to { 
-		background-color: transparent 
-	}
-	50% { 
-		background-color: orange; 
-	}
+  from,
+  to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: orange;
+  }
 }
-
 
 .section-1-btn {
   position: relative;
@@ -241,7 +244,7 @@ html {
   transition: width 0.5s 0.5s ease-in-out;
 }
 
-.card-about{
+.card-about {
   width: 50%;
   text-align: center;
   background-color: #fff;
@@ -249,7 +252,7 @@ html {
   box-shadow: 0.3rem 0.3rem 0.5rem #777;
 }
 
-.card-header{
+.card-header {
   display: flex;
   background-color: #f2f2f2;
   border-bottom: 1px solid #e6e6e6;
@@ -260,14 +263,22 @@ html {
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
-  border: .125rem solid;
+  border: 0.125rem solid;
   display: inline-block;
   opacity: 0.8;
 }
-.dot--full { background-color: currentColor; }
-.red { color: orangered; }
-.yellow { color: gold; }
-.green { color: limegreen; }
+.dot--full {
+  background-color: currentColor;
+}
+.red {
+  color: orangered;
+}
+.yellow {
+  color: gold;
+}
+.green {
+  color: limegreen;
+}
 
 .person-info {
   font-size: 1.5rem;
@@ -275,11 +286,11 @@ html {
   background-color: none;
   letter-spacing: 0.2rem;
   text-align: center;
-  font-family: 'Asap', sans-serif;
+  font-family: "Asap", sans-serif;
   justify-content: justify;
   background-color: #fff;
 }
-.person-info h3{
+.person-info h3 {
   margin: 30px 10px 20px 10px;
   text-align: left;
 }
@@ -427,22 +438,22 @@ html {
   margin-bottom: 0;
 }
 
-.section-4-detail{
+.section-4-detail {
   color: #ad7e48;
   font-size: 2.5rem;
   margin: auto;
 }
 
-.contact-info{
+.contact-info {
   width: 50%;
   margin: auto;
   font-size: 1.8rem;
 }
-.contact-info h3{
+.contact-info h3 {
   text-align: justify;
 }
 
-.section-detail-email{
+.section-detail-email {
   color: #fff;
 }
 
@@ -462,7 +473,7 @@ html {
 
 .social-media-link {
   margin: 0 2rem;
-  padding: 0.7rem; 
+  padding: 0.7rem;
   border-radius: 0.5rem;
   display: inline-block;
 }
@@ -484,8 +495,8 @@ html {
 /* Responsive */
 @viewport {
   width: device-width;
-  zoom:1;
-} 
+  zoom: 1;
+}
 
 @media (max-width: 1200px) {
   .services {
@@ -510,7 +521,6 @@ html {
   .progress-bar {
     width: 50rem;
   }
-
 }
 
 @media (max-width: 600px) {
@@ -546,7 +556,6 @@ html {
   .copyright {
     width: 70%;
   }
-
 }
 
 @media (max-width: 500px) {
@@ -562,7 +571,7 @@ html {
 
   .section-1-heading {
     font-size: 2.5rem;
-    margin-bottom:  10rem; 
+    margin-bottom: 10rem;
   }
 
   .navbar-link {
@@ -577,11 +586,9 @@ html {
     width: 40rem;
   }
 
-  .card-about{
+  .card-about {
     width: 40rem;
   }
-
-
 }
 
 @media (max-width: 360px) {
@@ -591,7 +598,7 @@ html {
 
   .section-1-heading {
     font-size: 2.5rem;
-    margin-bottom:  10rem;  
+    margin-bottom: 10rem;
   }
 
   .navbar-link {
@@ -606,10 +613,9 @@ html {
     width: 40rem;
   }
 
-  .card-about{
+  .card-about {
     width: 40rem;
   }
-
 }
 
 @media (max-width: 280px) {
@@ -619,7 +625,7 @@ html {
 
   .section-1-heading {
     font-size: 2.5rem;
-    margin-bottom:  13rem;  
+    margin-bottom: 13rem;
   }
 
   .navbar-link {
@@ -634,20 +640,20 @@ html {
     width: 40rem;
   }
 
-  .card-about{
+  .card-about {
     width: 40rem;
   }
-
 }
 
-@media (max-width: 220px) {
+/* 2340x1080 pixels at 476ppi */
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
   html {
-    font-size: 25%;
+    font-size: 30%;
   }
 
   .section-1-heading {
     font-size: 2.5rem;
-    margin-bottom:  13rem; 
+    margin-bottom: 13rem;
   }
 
   .navbar-link {
@@ -662,9 +668,37 @@ html {
     width: 40rem;
   }
 
-  .card-about{
+  .card-about {
+    width: 40rem;
+  }
+}
+
+/* 2532x1170 pixels at 460ppi */
+@media only screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) {
+  html {
+    font-size: 30%;
+  }
+
+  .section-1-heading {
+    font-size: 2.5rem;
+    margin-bottom: 13rem;
+  }
+
+  .navbar-link {
+    margin: 0 1.5rem;
+  }
+
+  .section-2-heading {
+    text-align: center;
+  }
+
+  .progress-bar {
     width: 40rem;
   }
 
+  .card-about {
+    width: 40rem;
+  }
 }
+
 /* End of Responsive */
