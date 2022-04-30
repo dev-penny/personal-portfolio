@@ -464,6 +464,12 @@ html {
   color: #999999;
 }
 
+.coffee-link{
+  cursor: pointer;
+  color: yellow;
+
+}
+
 /* End of Section 4 */
 
 /* Section 5 */
