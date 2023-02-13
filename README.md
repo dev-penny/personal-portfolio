@@ -36,6 +36,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * [project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
 
 
+ If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you!
+
 ![myportfolio](https://user-images.githubusercontent.com/88145246/218483901-cbf811a0-9c92-4443-9c5f-31712a07ed80.jpg)
 
 
