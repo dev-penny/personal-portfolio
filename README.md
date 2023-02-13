@@ -1,7 +1,7 @@
 # Personal Portfolio
 I design a clean, beautiful, minimal and responsive portfolio to place some of my projects.
 
-Check [here](https://pennylioliou.me/) my personal website!
+Check [here](pennylioliou.netlify.app) my personal website!
 
 ## Overview
 
