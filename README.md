@@ -1,5 +1,5 @@
 # Personal Portfolio
-I design a clean, beautiful, minimal and responsive portfolio to place some of my projects.
+Here is a clean, beautiful, minimal and responsive portfolio to place some of my projects, using basic front-end technologies.
 
 Check [here](https://pennylioliou.netlify.app/) my personal website!
 
