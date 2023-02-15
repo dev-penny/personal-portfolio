@@ -1,7 +1,7 @@
 # Personal Portfolio
 This is my first attempt to create a personal portfolio website to place some of my projects, using basic front-end technologies.
 
-Check [here](https://pennylioliou.netlify.app/) my personal website!
+Check [here](https://pennylioliou.netlify.app/)
 
 ## Overview
 
